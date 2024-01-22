@@ -5,5 +5,6 @@ If you're interested in discussing technical topics or exploring potential colla
 - 💬 GitHub messages
 - 📝 Or open an issue directly in one of my repositories
 
-<!-- GitHub 最近一次 Commit 日期 -->
-![GitHub last commit](https://img.shields.io/github/last-commit/shuakami/wuhu-home-Caidan)
+<span class="commit-date" style="color: #3498db; font-weight: bold;">![GitHub last commit](https://img.shields.io/github/last-commit/shuakami/wuhu-home-Caidan)</span>
+
+
