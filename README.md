@@ -5,6 +5,7 @@ If you're interested in discussing technical topics or exploring potential colla
 - 💬 GitHub messages
 - 📝 Or open an issue directly in one of my repositories
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Shuakami&show_icons=true)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shuakami&include_all_commits=true)
 
 
