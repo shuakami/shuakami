@@ -5,6 +5,6 @@ If you're interested in discussing technical topics or exploring potential colla
 - 💬 GitHub messages
 - 📝 Or open an issue directly in one of my repositories
 
-<span class="commit-date" style="color: #3498db; font-weight: bold;">![GitHub last commit](https://img.shields.io/github/last-commit/shuakami/wuhu-home-Caidan)</span>
+![github stats](https://github-readme-stats.vercel.app/api?username=Shuakami&show_icons=true)
 
 
