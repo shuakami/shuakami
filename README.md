@@ -27,7 +27,8 @@
   
   ### My Favorite Things
 
-  - I love creating beautiful, simple, and delightful UI/UX with a passion for animations. My favorite design style is the Geist Design System by Vercel
+  - I love creating beautiful, simple, and delightful UI/UX with a passion for animations
+  - My favorite design style is the Geist Design System by Vercel
   - I enjoy playing games like Cyberpunk 2077, The Last of Us, THE FINALS, Honor of Kings, and PUBG Mobile
 
 </details>
