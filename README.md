@@ -19,6 +19,9 @@
   <a href="https://github.com/shuakami">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://qm.qq.com/q/S3ZfnvvL2K">
+    <img src="https://img.shields.io/badge/QQ-%2312B7F5?style=flat-square&logo=qq&logoColor=white" alt="QQ"/>
+  </a>
 </p>
 
 <h3>
