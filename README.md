@@ -8,7 +8,7 @@
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shuakami&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shuakami&border_radius=12&commits_year=2025&rank_icon=github&ring_color=9b59b6" alt="GitHub Stats" />
 
 ### Contact
 
