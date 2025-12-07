@@ -8,7 +8,7 @@
 
 ### GitHub Stats
 
-<img src="https://githubstatus.sdjz.wiki/api?username=Shuakami&border_radius=12&commits_year=2025&rank_icon=github&ring_color=9b59b6" alt="GitHub Stats" />
+<img src="https://githubstatus.sdjz.wiki/api?username=Shuakami&border_radius=12&commits_year=2025&include_all_commits=true&rank_icon=github&ring_color=9b59b6" alt="GitHub Stats" />
 
 ### Contact
 
