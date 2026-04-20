@@ -32,6 +32,7 @@
   - My favorite design style is the Geist Design System by Vercel
     
   - I enjoy playing games like Cyberpunk 2077, The Last of Us, THE FINALS, Honor of Kings, and PUBG Mobile
-
+    
+  - I'm usually quite busy, so my maintenance of open-source projects might be a bit slow. But rest assured, I will still read and address the issues ）
 </details>
 </h3>
