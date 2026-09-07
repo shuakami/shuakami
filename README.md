@@ -36,5 +36,7 @@
   - I'm usually quite busy, so my maintenance of open-source projects might be a bit slow. But rest assured, I will still read and address the issues ）
 
   - I finally did what I've always dreamed of - I created a design system! Feel free to check it out~ https://design.sdjz.wiki/
+  
+  - I'm working on a new project, [嘎嘎课程表](https://github.com/shuakami/timetable)! 
 </details>
 </h3>
